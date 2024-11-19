@@ -1,4 +1,4 @@
-## BIENVENIDOS 👋
+# BIENVENIDOS 👋
 
 <!--
 **PabloMatas17/PabloMatas17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+* HTML 5
+* CSS 3
+* JAVASCRIPT
+* RUFUS
+* WORD
+* EXCELL
+* SISTEMAS OPERATIVOS
+
+[![My Skills](https://skillicons.dev/icons?i=java,HTML5,CSS3,RUFUS,EXCELL,SO,WORD=light)](https://skillicons.dev)
+
+
 ![](https://komarev.com/ghpvc/?username=PabloMatas17)
 ![](https://komarev.com/ghpvc/?username=PabloMatas17&color=green)
