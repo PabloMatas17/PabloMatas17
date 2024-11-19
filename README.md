@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * EXCELL
 * SISTEMAS OPERATIVOS
 
-[![My Skills](https://skillicons.dev/icons?i=java,HTML5,CSS3,RUFUS,EXCELL,SO,WORD=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,rufus,excell,word=light)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=PabloMatas17)
