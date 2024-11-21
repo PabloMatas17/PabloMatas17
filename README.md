@@ -1,6 +1,5 @@
 # BIENVENIDOS 👋
 
-<h1 align="center">Hi 👋, I'm pablo</h1>
 <h3 align="center">A passionate frontend developer from españa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablomatas17&label=Profile%20views&color=0e75b6&style=flat" alt="pablomatas17" /> </p>
@@ -31,7 +30,5 @@
 * WORD
 * EXCELL
 * SISTEMAS OPERATIVOS
-
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,rufus,excell,word=light)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=PabloMatas17&color=green)
