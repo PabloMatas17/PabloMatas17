@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,rufus,excell,word=light)](https://skillicons.dev)
 
-
-![](https://komarev.com/ghpvc/?username=PabloMatas17)
 ![](https://komarev.com/ghpvc/?username=PabloMatas17&color=green)
